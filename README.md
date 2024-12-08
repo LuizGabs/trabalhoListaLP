@@ -4,10 +4,10 @@ Este é um sistema especialista para auxiliar na doação de sangue. Ele permite
 
 ## Alunos:
 
-Ayrton Finicelli Lemes - 22053242
-Caroline Soares Braz - 22051417
-Jakeline Gimaque de Mesquita - 22050618
-Luiz Gabriel Favacho de Almeida - 22153921
+- Ayrton Finicelli Lemes - 22053242
+- Caroline Soares Braz - 22051417
+- Jakeline Gimaque de Mesquita - 22050618
+- Luiz Gabriel Favacho de Almeida - 22153921
 
 ## Funcionalidades
 
