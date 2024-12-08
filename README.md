@@ -28,8 +28,8 @@ Este é um sistema especialista para auxiliar na doação de sangue. Ele permite
 1. Clone este repositório:
 
    ```bash
-   git clone [github.com/LuizGabs/trabalhoListaLP](https://github.com/LuizGabs/trabalhoListaLP.git)
-   cd <nome-do-repositorio>
+   git clone https://github.com/LuizGabs/trabalhoListaLP.git
+   cd trabalhoListaLP
    ```
 
 2. Crie um ambiente virtual:
